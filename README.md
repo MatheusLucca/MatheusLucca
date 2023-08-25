@@ -23,8 +23,7 @@
   </div>
   
   ## Sobre mim
-  - Estudante de Sistema de Informação na UFMS 5° Semestre
-  - Estou em busca da primeira experiência profissional 
+  - Estudante de Sistema de Informação na UFMS 8° Semestre
   - Buscando me tonar um ótimo <strong> desenvolvedor </strong>
   
   ## Redes sociais e e-mail
